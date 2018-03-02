@@ -1,4 +1,5 @@
- using System.Windows.Interop;
+/*@author Chirag Shah*/ 
+using System.Windows.Interop;
  private int logOffTime = 0;
 
         private void InitializeAutoLogoff()
